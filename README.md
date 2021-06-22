@@ -15,6 +15,15 @@
 * [`Download wget`](https://eternallybored.org/misc/wget/releases/) and set path
 * [`Download Node JS`](https://nodejs.org/en/download/)
 
+## Linux
+```terminal
+>sudo su
+>apt update && apt upgrade -y && apt autoremove -y
+>apt install nodejs -y
+>apt install npm -y
+>apt install ffmpeg -y
+```
+
 ## Cloning this repo
 ```cmd
 > git clone https://github.com/LoL-Human/Case-WA-Bot.git
